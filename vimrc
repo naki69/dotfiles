@@ -37,7 +37,7 @@ call plug#begin()
 " Make sure you use single quotes
 
 Plug 'vim-syntastic/syntastic'
-Plug 'puremorning/viminspector'
+Plug 'puremourning/vimspector'
 Plug 'kiteco/vim-plugin'
 Plug 'tpope/vim-surround'
 Plug 'vim-airline/vim-airline'
